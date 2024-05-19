@@ -1,0 +1,9 @@
+hola, cómo estás/greeting
+abre youtube/open_youtube
+qué tiempo hace hoy/weather_query
+abre google/open_google
+qué hora es/time_query
+pon una alarma para las 7 de la mañana/set_alarm
+saludos/some_label
+abre el proyecto/open_vs
+proyecto/open_vs
